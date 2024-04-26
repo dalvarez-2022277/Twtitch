@@ -1,6 +1,3 @@
-/* eslint-disable react/prop-types */
-
-
 export const Sidebar = ({channels}) =>{
     if(!channels){
         return null

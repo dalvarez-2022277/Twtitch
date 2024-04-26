@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 export const StreamKey = (props) => {
     const { streamKey } = props
   return (

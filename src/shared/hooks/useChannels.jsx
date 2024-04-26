@@ -1,4 +1,3 @@
-/* eslint-disable no-extra-boolean-cast */
 import { useState } from "react";
 import toast from "react-hot-toast";
 import { getChannels as getChannelsRequest, getFollowedChannels } from "../../services/api";

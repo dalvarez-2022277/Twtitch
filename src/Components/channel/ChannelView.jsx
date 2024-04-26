@@ -1,5 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-/* eslint-disable react/prop-types */
  import { useEffect } from "react";
  import { useParams } from "react-router-dom";
  import { ReactFlvPlayer } from "react-flv-player";
